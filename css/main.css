@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  margin: 0;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+section {
+  height: 100vh;
+}
+
+section.intro {
+  background: #60a3bc;
+  padding-top: 10em;
+  height: calc(100vh -10em);
+}
+
+section.intro p {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 3em;
+}
+/*# sourceMappingURL=main.css.map */
